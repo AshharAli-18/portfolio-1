@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2020 - Jun 2024",
+            "cardTitle": "B.Sc, Computer Engineering",
+            "cardSubtitle":"ITU of the Punjab, Lahore",
+            "cardDetailedText": "CGPA - 3.01"
+            
+        },
+        {
+            "title": "Apr 2018 - Mar 2020",
+            "cardTitle": "F.Sc, Pre Engineering",
+            "cardSubtitle":"GCU, Lahore",
+            "cardDetailedText": "Marks - 1027/1100"
+            
+        }
+        
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "experiences": [
+        {
+            "title": "Associate Software Engineer",
+            "subtitle": "RedMath",
+            "workType": "Full-time",
+            "workDescription": [
+                "Currently working on an enterprise-level Fintech project called Cobase, where I am developing features using Java Spring Boot."
+                
+            ],
+            "dateText": "07/2023 – Present"
+        },
+        {
+            "title": "Website Development Intern",
+            "subtitle": "Granjur Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                    "Learned modern technologies like Reactjs and assisted the team for the development of an E-Commerce platform"
+            ],
+            "dateText": "07/2023 – 09/2024"
+        }
+    ]
+}

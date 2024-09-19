@@ -1,0 +1,47 @@
+{
+    "projects": [
+      {
+        "image": "images/projects/banking-poster.PNG",
+        "title": "Banking Website",
+        "bodyText": "- An indivually developed Web App.\n - Includes Admin and Customer portals.\n - Having all the features of a banking app developed using best coding practices.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/Ashharali18/banking-app"
+          },
+          {
+            "text": "Video Demo",
+            "href": "#"
+          }
+        ],
+        "tags": [
+          "Java (Springboot)",
+          "Reactjs",
+          "MySql"
+        ],
+        "liveDemoVideoSrc": "videos/banking-website-demo.mp4" 
+      },
+      {
+        "image": "images/projects/portfolio-poster.PNG",
+        "title": "Portfolio Website",
+        "bodyText": "- An indivually developed Web App.\n - Includes pages like Skills, Projects etc.\n - Having light and dark modes.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/Ashharali18/banking-app"
+          },
+          {
+            "text": "Video Demo",
+            "href": "#"
+          }
+        ],
+        "tags": [
+    
+          "Reactjs"
+        
+        ],
+        "liveDemoVideoSrc": "videos/banking-website-demo.mp4" 
+      }
+    ]
+  }
+  
