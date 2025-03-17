@@ -41,6 +41,23 @@
         
         ],
         "liveDemoVideoSrc": "videos/banking-website-demo.mp4" 
+      },
+      {
+        "image": "images/projects/portfolio-poster.PNG",
+        "title": "Portfolio Website",
+        "bodyText": "- An indivually developed Web App.\n - Includes pages like Skills, Projects etc.\n - Having light and dark modes.",
+        "links": [
+          {
+            "text": "Video Demo",
+            "href": "#"
+          }
+        ],
+        "tags": [
+    
+          "Reactjs"
+        
+        ],
+        "liveDemoVideoSrc": "videos/ecommerce-website.mp4" 
       }
     ]
   }
